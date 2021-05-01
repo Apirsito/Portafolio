@@ -1,0 +1,201 @@
+.primero{
+background: linear-gradient(to right, #f48f34, #fcb444, #fcbc45);
+}
+.gris{
+background-color:  #585858;
+}
+.logo{
+
+	border:2px solid white;
+	color: white;
+}
+.redondear1{
+	border-radius: 10px;
+}
+.contenido{
+
+	
+	color: white;
+}
+.contenido:hover{
+
+	border:1px solid white;
+}
+.logo:hover{
+
+	transform: scale(1.2);
+}
+.boton:hover{
+	transform: scale(1.2);
+}
+.form{
+
+	border:2px solid white;
+	color: white;
+}
+.logo2{
+
+	border:2px solid white;
+	color: white;
+}
+.form2{
+	background-color: #F9B101;
+}
+.tituloNaranja{
+	color: #F9B101;
+}
+.logo3{
+
+	border:2px solid black;
+	color: black;
+}
+.bg-morado{
+background-color: #4A235A;
+}
+.morado{
+color: #4A235A;
+}
+.btn-morado{
+
+	background-color: #c3f;
+	border-radius: 50px;
+}
+.moradoClaro{
+
+	color: #c3f;
+}
+.moradoGradiente{
+background: linear-gradient(to right, #c3f, #4A235A);
+
+}
+
+.bg-señorMorado{
+
+background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/48316/1550605869/$0tmp3paa8gc);
+background-size: cover;
+background-position: center;
+}
+
+.bg-landing5{
+
+background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/5697/1550510609/$y3k61h0util);
+background-size: cover;
+background-position: center;
+}
+.formTransparente{
+
+	background-color: transparent;
+}
+
+.btn-redondo{
+
+border-radius: 50px;
+
+}
+.btn-negro{
+
+
+	background-color: black;
+
+}
+.bg-landing6{
+
+
+background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/46/1550673348/$dj075ktrer);
+background-size: cover;
+background-position: center;
+
+}
+.btn-rojo{
+
+
+	background-color: #f30;
+border-radius: 50px;
+}
+
+.btn-white{
+
+
+	background-color: white;
+border-radius: 50px;
+color: red;
+}
+.bg-rayado{
+
+
+background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/46/1550673348/$me6cs8aspb);
+background-size: cover;
+background-position: center;
+	
+}
+.bg-rojo{
+
+background-color: #f30;
+
+opacity: 0.9;
+}
+
+.numeroGrande{
+
+font-size: 150px;
+color: gray;
+}
+.redondear{
+
+	border-radius: 50px;
+}
+.bg-rojoImagen7{
+
+
+	background-image: url(https://d335luupugsy2.cloudfront.net/cms/files/46/1550595986/$3sujnrg7tcj);
+	background-size:cover;
+	background-position:center;
+}
+.logo8{
+
+	border:2px solid ;
+	color: #ec3258;
+}
+.bg-rosa{
+
+	background: linear-gradient(to right, #ec3258 ,#ec3258,#ffd5ff);
+
+}
+.text-rosa{
+	color: #ec3258;
+}
+.bg-landing9{
+
+	background-color: #0c1721;
+}
+.completo{
+	height: 80vh;
+}
+.bg-landing10{
+
+	background:linear-gradient(to right, #5d2c5f, #2e163f);
+}
+.texto-10{
+	color: #5d2c5f;
+}
+
+@media screen and (min-width: 768px) { 
+
+iframe{
+
+	width: 560px;
+	height:315px;
+}
+
+ }
+@media screen and (min-width: 0px) and (max-width: 768px) { 
+
+
+iframe{
+
+	width: 90vw;
+	
+}
+
+
+}
